@@ -1,8 +1,0 @@
-
-__pycache__/
-*.pyc
-logs/
-*.xlsx
-.env
-.venv/
-.idea/
