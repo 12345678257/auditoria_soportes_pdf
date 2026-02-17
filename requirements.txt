@@ -1,0 +1,8 @@
+
+streamlit
+pymupdf
+pandas
+openpyxl
+fastapi
+uvicorn
+pytest
